@@ -27,8 +27,8 @@ This Task Management Application allows users to create, view, update, and delet
 ### Backend Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/task-management-app.git
-    cd task-management-app
+    git clone https://github.com/kavishkagimhan/Task-management.git
+    cd Task-management
     ```
 2. Install backend dependencies:
     ```bash
@@ -104,4 +104,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or inquiries, please contact [your email](mailto:youremail@example.com).
+For any questions or inquiries, please contact [your email](mailto:kavishkagimhan23@gmail.com).
